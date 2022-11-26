@@ -1,0 +1,21 @@
+input{
+    height: 30px;
+    width: 200px;
+    /* margin-bottom: 30px; */
+}
+button
+{
+    height: 30px;
+    width: 80px;
+}
+.label
+{
+    font-variant: small-caps;
+    color: black;
+}
+.main
+{
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
